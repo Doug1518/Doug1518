@@ -10,7 +10,12 @@ Me chamo Douglas Augusto e sou estudante de Ciências da Computação
 🔹 Estou construindo meu caminho na tecnologia através pró-atividade e muita vontade de aprender! 
 
 
- 
+ ## Linguagens mais utiizadas 
+
+ - Python
+ - java
+ - C
+ - MySql
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Doug1518&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
