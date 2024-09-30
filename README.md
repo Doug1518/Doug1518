@@ -10,7 +10,7 @@ Me chamo Douglas Augusto e sou estudante de Ciências da Computação
 🔹 Estou construindo meu caminho na tecnologia através pró-atividade e muita vontade de aprender! 
 
 
- ## Linguagens Que Uso/Estudo 
+ ## Linguagens Que Uso/ Estudo 
 
  - Python
  - java
