@@ -13,7 +13,7 @@ Me chamo Douglas Augusto e sou estudante de Ciências da Computação
  ## Linguagens Que Uso/Estudo 
 
  - Python
- - java
+ - Java
  - C
  - MySql
 
