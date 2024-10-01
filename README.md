@@ -21,7 +21,7 @@ Me chamo Douglas Augusto e sou estudante de Ciências da Computação
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Doug1518&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doug1518&show_icons=true&theme=radical)
+![Doug1518 GitHub stats](https://github-readme-stats.vercel.app/api?username=Doug1518&show_icons=true&theme=radical)
 
 
 
