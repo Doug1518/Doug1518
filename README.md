@@ -2,7 +2,7 @@
 ## Olá, sou Douglas!    
 Me chamo Douglas Augusto e sou estudante de Ciências da Computação  
 
- 🔹 Tenho grande interesse na área de desenvolvimento e Análise de dados.
+ 🔹 Tenho grande interesse na Área de desenvolvimento e Análise de dados.
 
  🔹 A procura de colaborar em projetos interessantes de código aberto.
 
