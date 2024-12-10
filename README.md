@@ -7,7 +7,7 @@ Me chamo Douglas Augusto e sou estudante de Ciências da Computação
  🔹 A procura de colaborar em projetos interessantes de código aberto.
 
 
-🔹 Estou construindo meu caminho na tecnologia através pró-atividade e muita vontade de aprender! 
+
 
 
  ## Linguagens Que Uso/Estudo 
